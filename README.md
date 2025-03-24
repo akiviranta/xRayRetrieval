@@ -1,7 +1,7 @@
 # xRayRetrieval
 
 ## Overview
-xRayRetrieval helps medical professionals query and compare X-ray images and diagnoses. It uses a modified version of **CheXpert dataset** and a **fine-tuned CLIP model** for image retrieval.
+xRayRetrieval helps medical professionals query and compare X-ray images and diagnoses. It uses a modified version of **CheXpert dataset** and a **fine-tuned CLIP model** for data retrieval base on img and textual queries.
 
 All the modifications were made on kaggle and can be seen in the jupyter notebook named CAPSTONEPROJECT.
 
