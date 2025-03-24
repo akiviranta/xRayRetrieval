@@ -7,6 +7,7 @@ All the modifications were made on kaggle and can be seen in the jupyter noteboo
 
 ## Current Status
 - **Embeddings were generated using the fine-tuned CLIP model**, but the current code may still use the original model.
+- This does not matter the creation of the embeddings is the important part
 - **Note:** The `node_modules` folder was mistakenly pushed to GitHub—clean it up before use (i could do it myself but no:))).
 
 ## Setup
