@@ -1,0 +1,8 @@
+Each img has a textual descriptor. Example : pleural effusion, support devices, sex : Male, age : 44, view : Lateral, None.
+You can see how these descriptors are created in the kaggle notebook provided in this repo. The point is that the descriptors are 100% accrate and trustworthy
+
+I calculated the number of possible features, in the examples case 6 and then searching the DB with an img and text. The number of correct features/total features is the accuracy score
+represented in the slides. It does not penalize returning extra features as the point was to just return similar pictures.
+
+The slides have a chatGPT generated chart which was based on a round of testing I accidentally did on the training data and a claude generated img that was done on testing data,
+so stuff the embedder was not trained on. Surprisingly the results are pretty good. If you have any more questions about the testing process contact me.
